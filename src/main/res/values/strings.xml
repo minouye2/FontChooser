@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FontChooser</string>
+    <string name="changing_text">This is the text that will be changing</string>
+    <string name="bold_button">BOLD</string>
+    <string name="italic_button">ITALIC</string>
+    <string name="increase_button">+</string>
+    <string name="decrease_button">-</string>
+</resources>
